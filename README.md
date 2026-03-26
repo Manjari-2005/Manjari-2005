@@ -5,7 +5,7 @@ I'm a **B.Sc. Computer Science student** at RCC Institute of Information Technol
 ### 🛠️ Tech Stack & Skills
 - **Languages:** Python, Java, SQL, Data Structures & Algorithms
 - **Frontend:** React, Redux Toolkit, Tailwind CSS, Vite
-- **Tools:** Git, GitHub, MongoDB
+- **Tools:** Git, GitHub
 
 ### 🚀 Featured Project: TravelBuddy
 A full-stack travel planner designed for seamless trip management and secure authentication.
